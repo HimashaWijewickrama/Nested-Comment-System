@@ -1,0 +1,13 @@
+#card-text {
+    font-size: 30px;
+}
+.card-title{
+    text-align: center;
+    color:black;
+    font-size: 38px;
+    font-weight: 600;
+
+}
+h3:hover{
+    color:white;
+}
